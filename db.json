@@ -69,6 +69,27 @@
       "descripcion": "Camiseta de Super Mario con estampado de alta calidad",
       "imagen": "https://www.mandragorastore.com/wp-content/uploads/2023/03/Super-Mario-Bros-la-Pelicula-Mario-en-Accion-Tshirt-blue.jpg",
       "precio": "S/.89.54"
+    },
+    {
+      "titulo": "PRUEBA1",
+      "descripcion": "PRUEBA1",
+      "imagen": "PRUEBA1",
+      "precio": "S/.322.00",
+      "id": "8EcGj3_"
+    },
+    {
+      "titulo": "PRUEBAAA",
+      "descripcion": "PRUEBA2",
+      "imagen": "PRUEBA2",
+      "precio": "S/.322.20",
+      "id": "ajCN6jX"
+    },
+    {
+      "titulo": "PRUEBAAA",
+      "descripcion": "PRUEBA2",
+      "imagen": "https://www.mandragorastore.com/wp-content/uploads/2023/03/Super-Mario-Bros-la-Pelicula-Mario-en-Accion-Tshirt-blue.jpg",
+      "precio": "S/.56.03",
+      "id": "xAk5ogf"
     }
   ]
 }
